@@ -132,7 +132,7 @@ I believe that programming is not just about writing code, but also about strate
 <img 
     align="left" 
     alt="Top Languages" 
-    height="200" 
+    height="260" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasteixeira03&layout=donut&theme=tokyonight" 
 />
 
