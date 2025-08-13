@@ -129,7 +129,8 @@ I believe that programming is not just about writing code, but also about strate
     src="https://github-readme-stats.vercel.app/api?username=lucasteixeira03&show_icons=true&theme=tokyonight&include_all_commits=true" 
 />
 
-<img  
+<img 
+    align="left" 
     alt="Top Languages" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasteixeira03&layout=donut&theme=tokyonight" 
