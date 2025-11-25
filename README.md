@@ -123,18 +123,16 @@ I believe that programming is not just about writing code, but also about strate
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Streak" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://streak-stats.demolab.com/?user=lucasteixeira03&theme=tokyonight&hide_border=false" 
   />
-/>
 
-<img 
+  <img 
     align="left" 
     alt="Top Languages" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasteixeira03&layout=donut&theme=tokyonight" 
-/>
-
+  />
 </p>
