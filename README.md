@@ -120,17 +120,20 @@ I believe that programming is not just about writing code, but also about strate
 
 ### 📊 Statistics
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img 
-    alt="GitHub Streak" 
-    height="200"
-    src="https://streak-stats.demolab.com/?user=lucasteixeira03&theme=tokyonight&hide_border=false"
-  />
-
-  <img 
-    alt="Top Languages" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasteixeira03&layout=donut&theme=tokyonight"
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img 
+        height="200"
+        src="https://streak-stats.demolab.com/?user=lucasteixeira03&theme=tokyonight&hide_border=false"
+      />
+    </td>
+    <td>
+      <img 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasteixeira03&layout=donut&theme=tokyonight"
+      />
+    </td>
+  </tr>
+</table>
 
