@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-Hello, my name is Lucas De Sousa Teixeira, I am 21 years old and originally from Porto Alegre, in the state of Rio Grande do Sul, Brazil. I am currently pursuing a degree in Computer Science at IFSUL – Passo Fundo Campus. I am passionate about the world of technology and overcoming daily challenges. I bring with me qualities shaped by my journey in sports, such as discipline, resilience, proactivity, and dedication, which I now apply to my professional and academic development.
+Hello, my name is Lucas De Sousa Teixeira, I am 22 years old and originally from Porto Alegre, in the state of Rio Grande do Sul, Brazil. I am currently pursuing a degree in Computer Science at IFSUL – Passo Fundo Campus. I am passionate about the world of technology and overcoming daily challenges. I bring with me qualities shaped by my journey in sports, such as discipline, resilience, proactivity, and dedication, which I now apply to my professional and academic development.
 
 I believe that programming is not just about writing code, but also about strategy, creativity, and the ability to transform ideas into real-world solutions.
 
