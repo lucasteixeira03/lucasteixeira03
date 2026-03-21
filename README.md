@@ -4,11 +4,6 @@
 
 Hello, my name is Lucas De Sousa Teixeira, I am 22 years old and originally from Porto Alegre, in the state of Rio Grande do Sul, Brazil. I am currently pursuing a degree in Computer Science at IFSUL – Passo Fundo Campus. I am passionate about the world of technology and overcoming daily challenges. I bring with me qualities shaped by my journey in sports, such as discipline, resilience, proactivity, and dedication, which I now apply to my professional and academic development.
 
-
-Hello, my name is Lucas de Sousa Teixeira. I am a Computer Science student at IFSUL – Passo Fundo Campus, Brazil, with a strong focus on backend engineering and software architecture.
-
-I am passionate about building scalable and maintainable systems, applying solid software engineering principles rather than just writing code. My approach combines discipline, problem-solving, and continuous learning to transform ideas into real-world solutions.
-
 ---
 
 ## 🧠 Engineering Focus
